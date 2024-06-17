@@ -1,0 +1,25 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 10442">
+<g id="Ellipse 210" filter="url(#filter0_b_2016_177)">
+<circle cx="20.8811" cy="20.969" r="20.5325" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="Group">
+<g id="Group_2">
+<g id="Group_3">
+<path id="Vector" d="M11.8965 16.1758C11.8775 16.3097 11.8585 16.4437 11.8585 16.5777V26.5129C11.8585 26.6245 11.8775 26.7362 11.8965 26.8478L17.252 21.0653L11.8965 16.1758Z" fill="white"/>
+<path id="Vector_2" d="M29.8656 16.1753L24.5291 21.0425L29.8846 26.825C29.9036 26.7134 29.9036 26.6017 29.9036 26.4901V16.5772C29.9036 16.4432 29.8846 16.3093 29.8656 16.1753Z" fill="white"/>
+<path id="Vector_3" d="M22.1515 23.2091C21.4298 23.8789 20.3283 23.8789 19.6067 23.2091L18.4672 22.1821L12.9597 28.121C13.0547 28.1433 13.1496 28.1656 13.2446 28.1656H28.4756C28.5705 28.1656 28.6655 28.1433 28.7604 28.121L23.291 22.1821L22.1515 23.2091Z" fill="white"/>
+<path id="Vector_4" d="M21.2223 21.7796L28.7238 14.9254C28.6479 14.9031 28.5909 14.9031 28.5149 14.9031H13.2649C13.189 14.9031 13.132 14.9031 13.056 14.9254L20.5576 21.7796C20.7475 21.9582 21.0134 21.9582 21.2223 21.7796Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_2016_177" x="-6.65137" y="-6.56348" width="55.0649" height="55.0649" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="3.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2016_177"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2016_177" result="shape"/>
+</filter>
+</defs>
+</svg>
